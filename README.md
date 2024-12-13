@@ -3,7 +3,7 @@
 ## Project Overview
 This project explores global health statistics through an analysis of 1 million rows of data to understand the socioeconomic factors influencing disease prevalence and recovery rates. By cleaning the data, performing exploratory and clustering analyses, and building predictive models, the study uncovers insights into how factors such as urbanization, healthcare access, and economic conditions affect disease dynamics.
 
-The notebook could not be uploaded to GitHub. However, you can access it on Kaggle through the following link: [https://www.kaggle.com/code/azhardaho/global-health-statistics-data-analysis-and-ml/edit]Global Health Statistics Data Analysis and ML.
+The notebook could not be uploaded to GitHub. However, you can access it on Kaggle through the following link: [https://www.kaggle.com/code/azhardaho/global-health-statistics-data-analysis-and-ml/edit].
 
 ---
 
